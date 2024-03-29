@@ -2,7 +2,7 @@ body {
     justify-content: center;
     margin: 0;
     display: flex;
-    
+    font-family: raleway;
 }
 .container {
     width: 1157px;
@@ -132,8 +132,8 @@ li {
     justify-content: center;
 }
 img {
-    width: 13%;
-    height: 60%;
+    width: 25%;
+    height: 80%;
     border-radius: 100%;
     border: solid #2c1d27;
     box-shadow:2px 2px 10px #2c1d27;
