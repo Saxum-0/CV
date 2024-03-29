@@ -99,18 +99,19 @@ h3 {
     font-family: lato;
     background: linear-gradient(to right, #782221 1%,#dbc2a4 1% 99%);
     padding-left: 2%;
-    
+    font-size: 1.3rem;
 }
 h4 {
     font-family: lato;
     padding-left: 2%;
     max-width: 70%;
+    font-size: 1.1rem;
 }
 h5 {
     font-family: lato;
     background-color: #dbc2a4;
     padding-left: 2%;
-    font-size: 1rem;
+    font-size: 1.2rem;
     color: black;
 }
 .container_divers p {
